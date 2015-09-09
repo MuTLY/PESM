@@ -22,6 +22,12 @@
         self.aboutPark = [];
 
         // Start
+		/*
+		/data/atividades_tipo.json = http://www.parqueestadualserradomar.sp.gov.br/pesm/wp-json/taxonomies/tipo_atividades/terms
+		/data/atividades_lista.json = http://www.parqueestadualserradomar.sp.gov.br/pesm/wp-json/posts/?type=atividades
+		/data/nucleos_lista.json = http://www.parqueestadualserradomar.sp.gov.br/pesm/wp-json/posts?type=nucleos
+		http://www.parqueestadualserradomar.sp.gov.br/pesm/sobre/ (json hardcoded)
+		*/
         self.getData = function() {
             $http.get('data/atividades_tipo.json')
                 .then(function(response) {
