@@ -1,0 +1,16 @@
+<div class="stage_full_wh nucleos-mapa">
+    <div class="barra_topo">
+        <div class="voltar"><a go-home="go-home" vibrate="vibrate">voltar</a></div>
+        <div class="titulo">Núcleos do Parque</div>
+        <div class="tipo"><a href="#nucleos-lista" vibrate="vibrate">Lista</a></div>
+    </div>
+    <div class="stage_miolo4">
+        <span id="alerta" class="alerta">arraste<br>para navegar</span>
+        <div id="container" class="map-scroller" map-scroll="map-scroll">
+            <div class="scroller">
+                <a ng-repeat="cores in coresList" href="#nucleo-descricao/{{::cores.ID}}" class="{{::cores.slug}}" vibrate="vibrate"></a>
+                <img src="img/spacer.gif" width="100%" height="100%" id="mapa" class="mapa main-img" />
+            </div>
+        </div>
+    </div>
+</div>

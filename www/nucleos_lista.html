@@ -1,0 +1,19 @@
+<div class="stage_full_wh">
+    <div class="barra_topo">
+        <div class="voltar"><a go-home="go-home" vibrate="vibrate">voltar</a></div>
+        <div class="titulo">Núcleos do Parque</div>
+        <div class="tipo"><a href="#nucleos-mapa" vibrate="vibrate">Mapa</a></div>
+    </div>
+    <div class="stage_miolo2">
+        <ul class="lista_nucleos">
+            <li ng-repeat="cores in coresList">
+                <a href="#nucleo-descricao/{{::cores.ID}}" vibrate="vibrate">
+                    <span class="icone"><img ng-src="img/logo_{{::cores.slug}}.svg" class="svg" width="70" height="70" /></span>
+                    <span class="texto">
+                        <strong>Núcleo {{::cores.name}}</strong> em {{::cores.city}}<br>{{::cores.km !== 0 ? cores.km + ' km' : ''}}
+                    </span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>

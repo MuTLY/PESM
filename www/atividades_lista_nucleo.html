@@ -1,0 +1,23 @@
+<div class="stage_full_wh">
+    <div class="barra_topo">
+        <div class="voltar"><a go-activities="go-activities" vibrate="vibrate">voltar</a></div>
+        <div class="titulo">Selecionar atividades</div>
+        <div class="tipo"><a href="#atividades-lista" vibrate="vibrate">Atividades</a></div>
+    </div>
+    <div class="stage_miolo2">
+        <div class="lista_atividades" on-finish-repeat="renderSvg" ng-repeat="activities in activitiesList | groupBy: 'core_name':'activitiesByName'">
+            <span class="barra">
+                <strong>Núcleo {{::activities.core_name}}</strong>
+                <span>{{::activities.items[0].km !== 0 ? activities.items[0].km + 'km' : ''}}</span>
+            </span>
+            <ul>
+                <li ng-repeat="activity in activities.items">
+                    <a href="#atividades-descricao/{{::activity.ID}}" vibrate="vibrate">
+                        <span class="icone"><img ng-src="img/atividade_icone_{{::activity.activity_icon}}.svg" class="svg svgHover" width="40" height="40" /></span>
+                        <span class="texto"><strong>{{::activity.title}}</strong></span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

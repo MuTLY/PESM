@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget
+    id="br.com.amplifiq.pesm"
+    version="0.0.5"
+    xmlns="http://www.w3.org/ns/widgets"
+    xmlns:cdv="http://cordova.apache.org/ns/1.0">
+
+    <name>Parque Estadual Serra do Mar</name>
+
+    <description>Aplicativo Oficial do Parque Estadual Serra do Mar</description>
+
+    <author email="amplifiq@amplifiq.com.br" href="http://amplifiq.com.br">AmplifiQ</author>
+
+    <content src="index.html" />
+
+    <access origin="*" />
+
+    <preference name="Fullscreen" value="false" />
+    <preference name="Orientation" value="portrait" />
+    <preference name="BackgroundColor" value="0xff000000"/>
+
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="5000" />
+
+    <allow-navigation href="*://*.google.com/*" />
+    <allow-navigation href="*://*.googleapis.com/*" />
+    <allow-navigation href="*://*.gstatic.com/*" />
+    <allow-navigation href="*://*.freegeoip.net/*" />
+    <allow-navigation href="*://*.geoiplookup.wikimedia.org/*" />
+    <allow-navigation href="*://*.geoplugin.net/*" />
+
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+
+    <allow-intent href="tel:*" />
+    <allow-intent href="geo:*" />
+    <allow-intent href="mailto:*" />
+
+    <hook type="after_platform_add" src="scripts/install-plugins.js" />
+
+    <platform name="android">
+        <preference name="DisallowOverscroll" value="true" />
+
+        <icon src="res/android/icons/_icon_android_512.png" />
+        <icon src="res/android/icons/_icon_android_192.png" density="xxxhdpi" />
+        <icon src="res/android/icons/_icon_android_144.png" density="xxhdpi" />
+        <icon src="res/android/icons/_icon_android_96.png" density="xhdpi" />
+        <icon src="res/android/icons/_icon_android_72.png" density="hdpi" />
+        <icon src="res/android/icons/_icon_android_48.png" density="mdpi" />
+        <icon src="res/android/icons/_icon_android_36.png" density="ldpi" />
+
+        <splash src="res/android/splash/_splash_1280x720.png" density="land-xhdpi"/>
+        <splash src="res/android/splash/_splash_800x480.png" density="land-hdpi"/>
+        <splash src="res/android/splash/_splash_480x320.png" density="land-mdpi"/>
+        <splash src="res/android/splash/_splash_320x200.png" density="land-ldpi"/>
+
+        <splash src="res/android/splash/_splash_720x1280.png" density="port-xhdpi"/>
+        <splash src="res/android/splash/_splash_480x800.png" density="port-hdpi"/>
+        <splash src="res/android/splash/_splash_320x480.png" density="port-mdpi"/>
+        <splash src="res/android/splash/_splash_200x320.png" density="port-ldpi"/>
+    </platform>
+
+    <platform name="wp8">
+        <icon src="res/windows/icons/ApplicationIcon.png" width="99" height="99" />
+        <icon src="res/windows/icons/Background.png" width="159" height="159" />
+
+        <splash src="res/windows/splash/SplashScreenImage.png" width="768" height="1280"/>
+    </platform>
+</widget>

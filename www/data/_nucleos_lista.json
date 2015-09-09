@@ -1,0 +1,720 @@
+[
+    {
+        "ID": 71,
+        "title": "São Sebastião",
+        "slug": "sao-sebastiao",
+        "post_metas": {
+            "info_content": "Criado no ano de 1998, o Núcleo São Sebastião possui uma extensão de 26.268 hectares e abrange o município de São Sebastião. No final de 2010, com a ampliação do Parque Estadual da Serra do Mar, importantes áreas foram incluídas no núcleo, como a praia Brava e todo o costão rochoso até Maresias, além das penínsulas localizadas entre as praias de Maresias, Paúba, Santiago, Toque-Toque Grande e Toque-Toque Pequeno.\r\nDessa forma, o parque, e, por consequência, o núcleo, ganhou uma significativa extensão de costões rochosos, importantes nichos ecológicos para a alimentação e abrigo de espécies marinhas. Seu nome é derivado da cidade de São Sebastião, que tem o santo como seu padroeiro oficial.\r\n",
+            "info_municipio": "São Sebastião",
+            "info_endereco": "Praça Simeão Faustino, 17 - Juquehi - São Sebastião - SP - CEP 11600-000",
+            "info_telefone": "(12) 3863-1575",
+            "info_email": "pesm.saosebastiao@fflorestal.sp.gov.br",
+            "enderecos": [
+                {
+                    "local": "Centro de Visitantes",
+                    "endereco": "",
+                    "slug": "centro-de-visitantes",
+                    "geolocation": {
+                        "latitude": -23.764195,
+                        "longitude": -45.754622
+                    }
+                }
+            ],
+            "local_descricao": "<p>Como chegar: </p>",
+            "atividades": null,
+            "galeria_atrativos": [
+                {
+                    "imagem": "img/uploads/sao-sebastiao-atrativo-sitio-arqueologico-sao-francisco-01.jpg",
+                    "titulo": "Sítio Arqueológico São Francisco - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/sao-sebastiao-atrativo-sitio-arqueologico-sao-francisco-02.jpg",
+                    "titulo": "Sítio Arqueológico São Francisco - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/sao-sebastiao-atrativo-sitio-arqueologico-sao-francisco-03.jpg",
+                    "titulo": "Mirante do Sítio Arqueológico São Francisco - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/sao-sebastiao-atrativo-cachoeira-samambaiacu-01.jpg",
+                    "titulo": "Cachoeira Samambaiaçu - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/sao-sebastiao-atrativo-ribeirao-do-itu-01.jpg",
+                    "titulo": "Ribeirão do Itu - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/sao-sebastiao-atrativo-ribeirao-do-itu-02.jpg",
+                    "titulo": "Ribeirão do Itu - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/sao-sebastiao-atrativo-cachoeira-pedra-lisa-01.jpg",
+                    "titulo": "Cachoeira Pedra Lisa - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/sao-sebastiao-atrativo-praia-brava-01.jpg",
+                    "titulo": "Praia Brava - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/sao-sebastiao-atrativo-praia-brava-02.jpg",
+                    "titulo": "Praia Brava - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/sao-sebastiao-atrativo-mirante-de-pauba-01.jpg",
+                    "titulo": "Mirante de Paúba - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/sao-sebastiao-atrativo-mirante-de-pauba-02.jpg",
+                    "titulo": "Mirante de Paúba - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/sao-sebastiao-atrativo-viaduto-abandonado-03.jpg",
+                    "titulo": "Viaduto Abandonado - Por Lucas Cuervo"
+                }
+            ]
+        }
+    },
+    {
+        "ID": 70,
+        "title": "Santa Virgínia",
+        "slug": "santa-virginia",
+        "post_metas": {
+            "info_content": "Inaugurado em 1989, o Núcleo Santa Virgínia foi criado devido às desapropriações das antigas fazendas Ponte Alta e Santa Virgínia, esta última tendo influenciado diretamente na denominação oficial. Com extensão de 17.500 hectares, sua área compreende as cidades de São Luiz do Paraitinga, Natividade da Serra, Cunha, Ubatuba e Caraguatatuba, na região conhecida como Vale do Paraíba.\r\nPor conta do relevo acidentado, que favorece a formação de cachoeiras, o núcleo é um dos principais atrativos de São Luiz do Paraitinga e de Natividade da Serra. Além disso, parte da maior porção de florestas intactas do Vale do Paraíba permanece protegida dentro dos seus limites – um dos maiores atributos do local.",
+            "info_municipio": "São Luiz do Paraitinga",
+            "info_endereco": "Rodovia Dr. Oswaldo cruz, km 78 - Alto da Serra - São Luis do Paraitinga - SP - CEP 12140-000",
+            "info_telefone": "(12) 3671-9159",
+            "info_email": "pesm.santavirginia@fflorestal.sp.gov.br",
+            "enderecos": [
+                {
+                    "local": "Centro de visitantes",
+                    "endereco": "",
+                    "slug": "centro-de-visitantes",
+                    "geolocation": {
+                        "latitude": -23.335939,
+                        "longitude": -45.14603
+                    }
+                },
+                {
+                    "local": "Base Vargem Grande",
+                    "endereco": "",
+                    "slug": "base-vargem-grande",
+                    "geolocation": {
+                        "latitude": -23.437858,
+                        "longitude": -45.244272
+                    }
+                },
+                {
+                    "local": "Base Catuçaba",
+                    "endereco": "",
+                    "slug": "base-catucaba",
+                    "geolocation": {
+                        "latitude": -23.24488,
+                        "longitude": -45.13654
+                    }
+                }
+            ],
+            "local_descricao": "<p>Como chegar: </p>",
+            "atividades": [
+                {
+                    "atividadeID": "1060",
+                    "atividadeNome": "Tirolesa em Santa Virgínia"
+                },
+                {
+                    "atividadeID": "614",
+                    "atividadeNome": "Trilha do Corcovado"
+                },
+                {
+                    "atividadeID": "601",
+                    "atividadeNome": "Rafting no Rio Paraibuna"
+                }
+            ],
+            "galeria_atrativos": [
+                {
+                    "imagem": "img/uploads/santa-virginia-atrativo-pico-do-corcovado-01.jpg",
+                    "titulo": "Pico do Corcovado - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/santa-virginia-atrativo-pico-do-corcovado-02.jpg",
+                    "titulo": "Pico do Corcovado - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/santa-virginia-atrativo-pico-do-corcovado-03.jpg",
+                    "titulo": "Pico do Corcovado - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/santa-virginia-atrativo-poco-do-pito-01.jpg",
+                    "titulo": "Poço do Pito - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/santa-virginia-atrativo-poco-do-pito-02.jpg",
+                    "titulo": "Poço do Pito - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/santa-virginia-atrativo-rio-paraibuna-01.jpg",
+                    "titulo": "Rio Paraibuna - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/santa-virginia-atrativo-rio-paraibuna-02.jpg",
+                    "titulo": "Rio Paraibuna - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/santa-virginia-atrativo-rio-paraibuna-03.jpg",
+                    "titulo": "Rio Paraibuna - Por Lucas Cuervo"
+                }
+            ]
+        }
+    },
+    {
+        "ID": 69,
+        "title": "Padre Dória",
+        "slug": "padre-doria",
+        "post_metas": {
+            "info_content": "O Núcleo Padre Dória - NPDOR é o decimo Núcleo do Parque Estadual da Serra do Mar criado em 25 de março de 2014, com áreas pertencentes aos Núcleos de São Sebastião, Bertioga e Caraguatatuba, foram desmembrados para formação de um Núcleo no Planalto com a finalidade facilitar e a assegurar integral proteção à flora, à fauna, às belezas naturais, bem como para garantir sua utilização a objetivos educacionais, recreativos e científicos, dada a sua importância histórico, cultural e ambiental.\r\nPossui área de 26.154,02 hectares, e está localizado nas Cabeceiras do Alto Tietê e Alto Paraíba, Planalto da Serra do Mar distribuído entre os Municípios de Paraibuna, Salesópolis, Biritiba Mirim, São Sebastião, Caraguatatuba e Bertioga. O nome do Núcleo é uma homenagem ao Padre Manuel de Faria Dória, fundador da cidade de Salesópolis e responsável pela construção da Estrada Dória, que ligava as regiões do Vale do Paraíba e da Grande São Paulo ao Litoral Norte paulista.A Estrada Dória possui seus traços e vestígios na Serra do Mar apresentando muitos Patrimônios históricos e culturais.\r\n\r\n",
+            "info_municipio": "Salesópolis",
+            "info_endereco": "",
+            "info_telefone": "(11) 4696 0981",
+            "info_email": "pesm.padredoria@fflorestal.sp.gov.br",
+            "enderecos": null,
+            "local_descricao": "A sede administrativa está localizada no Município de Salesópolis, há 100 km de São Paulo no cruzamento do Vale do Paraíba (Santa Branca, Jacareí e São José dos Campos), Alto Tietê (Biritiba Mirim, Mogi das Cruzes e Suzano) e Litoral Norte (Caraguatatuba, São Sebastião e Ilhabela).",
+            "atividades": null,
+            "galeria_atrativos": [
+                {
+                    "imagem": "img/uploads/padre-doria-atrativo-mirante-da-cruz-01.jpg",
+                    "titulo": "Mirante da Cruz - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/padre-doria-atrativo-mirante-da-cruz-02.jpg",
+                    "titulo": "Mirante da Cruz - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/padre-doria-atrativo-mirante-da-cruz-03.jpg",
+                    "titulo": "Mirante da Cruz - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/padre-doria-atrativo-capela-de-sao-lourenco-01.jpg",
+                    "titulo": "Capela de São Lourenço - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/padre-doria-atrativo-capela-de-sao-lourenco-02.jpg",
+                    "titulo": "Capela de São Lourenço - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/padre-doria-atrativo-estrada-do-rio-pardo-01.jpg",
+                    "titulo": "Estrada do Rio Pardo - Por Lucas Cuervo"
+                }
+            ]
+        }
+    },
+    {
+        "ID": 68,
+        "title": "Picinguaba",
+        "slug": "picinguaba",
+        "post_metas": {
+            "info_content": "Criado em 1979, a partir da incorporação da antiga Fazenda Picinguaba ao Parque Estadual da Serra do Mar, o Núcleo Picinguaba teve sua área expandida frequentemente desde então. Localizado no município de Ubatuba, o núcleo possui uma extensão de 47.500 hectares, o que corresponde a aproximadamente 80% do território da cidade. Restingas, manguezais, praias e costões rochosos, bem como territórios historicamente utilizados por comunidades tradicionais de indígenas, caiçaras e quilombolas, habitantes da região há cerca de 200 a 300 anos, permanecem preservados.\r\n\r\n\r\nSua área costeira é contígua à Área de Proteção Ambiental (APA) Marinha do Litoral Norte, criada no ano de 2008. Juntamente com outros núcleos e com o Parque Estadual da Ilha Anchieta, o Núcleo Picinguaba compõe um extenso corredor ecológico com cerca de 250 mil hectares, que abrange 9 municípios, 18 unidades de conservação, 5 terras indígenas e 4 terras quilombolas do sul fluminense e do norte paulista.",
+            "info_municipio": "Ubatuba",
+            "info_endereco": "Rua Dr. Esteves da Silva, 510 - Centro - Ubatuba - SP - CEP 11680-000",
+            "info_telefone": "(12) 3833-6552",
+            "info_email": "pesm.picinguaba@ffloresal.sp.gov.br",
+            "enderecos": [
+                {
+                    "local": "Centro de Visitantes",
+                    "endereco": "",
+                    "slug": "centro-de-visitantes",
+                    "geolocation": {
+                        "latitude": -23.358047,
+                        "longitude": -44.850691
+                    }
+                },
+                {
+                    "local": "Base Cambucá",
+                    "endereco": "",
+                    "slug": "base-cambuca",
+                    "geolocation": {
+                        "latitude": -23.3299,
+                        "longitude": -44.938568
+                    }
+                }
+            ],
+            "local_descricao": "<p>Como chegar: </p>",
+            "atividades": [
+                {
+                    "atividadeID": "1056",
+                    "atividadeNome": "Trilha Fluvial no Rio Fazenda"
+                },
+                {
+                    "atividadeID": "1054",
+                    "atividadeNome": "Surf na Praia de Cambury"
+                }
+            ],
+            "galeria_atrativos": [
+                {
+                    "imagem": "img/uploads/picinguaba-atrativo-mirante-da-aldeia-boa-vista-01.jpg",
+                    "titulo": "Mirante da Aldeia Boa Vista - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/picinguaba-atrativo-rio-fazenda-01.jpg",
+                    "titulo": "Rio Fazenda - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/picinguaba-atrativo-rio-fazenda-02.jpg",
+                    "titulo": "Rio Fazenda - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/picinguaba-atrativo-praia-da-fazenda-01.jpg",
+                    "titulo": "Praia da Fazenda - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/picinguaba-atrativo-praia-da-fazenda-02.jpg",
+                    "titulo": "Praia da Fazenda - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/picinguaba-atrativo-cachoeira-do-cambury-01.jpg",
+                    "titulo": "Cachoeira do Cambury - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/picinguaba-atrativo-cachoeira-do-cambury-02.jpg",
+                    "titulo": "Cachoeira do Cambury - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/picinguaba-atrativo-casa-de-farinha-01.jpg",
+                    "titulo": "Casa de Farinha - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/picinguaba-atrativo-casa-de-farinha-02.jpg",
+                    "titulo": "Casa de Farinha - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/picinguaba-atrativo-casa-de-farinha-03.jpg",
+                    "titulo": "Casa de Farinha - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/picinguaba-atrativo-cachoeira-tombador-01.jpg",
+                    "titulo": "Cachoeira Tombador - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/picinguaba-atrativo-cachoeira-tombador-02.jpg",
+                    "titulo": "Cachoeira Tombador - Por Lucas Cuervo"
+                }
+            ]
+        }
+    },
+    {
+        "ID": 67,
+        "title": "Itutinga-Pilões",
+        "slug": "itutinga-piloes",
+        "post_metas": {
+            "info_content": "O Núcleo Itutinga Pilões foi criado pela incorporação das antigas Reserva Estadual da Serra do Mar, Reserva de Rio Branco–Cubatão e Reserva de São Vicente ao Parque Estadual da Serra do Mar, no ano de 1977. Sua área compreende 43,8 mil hectares de extensão e abrange os municípios de Mongaguá, Praia Grande, São Vicente, Santos, Cubatão, São Bernardo do Campo, Santo André e Mogi das Cruzes.\r\nPela convergência de seu território à Grande São Paulo e à Baixada Santista, duas grandes zonas metropolitanas de extrema importância para a economia nacional, o núcleo sofre constantes pressões devido ao crescimento urbano-industrial dessas regiões. Por essa razão, o núcleo realiza atividades de fiscalização, proteção e programas de uso público (visitação e educação ambiental), através de sua sede, localizada em Cubatão, e mais duas bases de apoio: Tibiriçá e Guariúma, respectivamente instaladas nos municípios de São Bernardo do Campo e Praia Grande.",
+            "info_municipio": "Cubatão",
+            "info_endereco": "Estrada Elias Zarzur, Km 8, s/nº - Água Fria - Cubatão - SP",
+            "info_telefone": "(13) 3361-8250",
+            "info_email": "pesm.itutingapiloes@fflorestal.sp.gov.br",
+            "enderecos": [
+                {
+                    "local": "Centro de Visitantes",
+                    "endereco": "",
+                    "slug": "centro-de-visitantes",
+                    "geolocation": {
+                        "latitude": -23.905805,
+                        "longitude": -46.490258
+                    }
+                },
+                {
+                    "local": "Base Guariúma",
+                    "endereco": "",
+                    "slug": "base-guariuma",
+                    "geolocation": {
+                        "latitude": -24.015593,
+                        "longitude": -46.564564
+                    }
+                },
+                {
+                    "local": "Base Tibiriça",
+                    "endereco": "",
+                    "slug": "base-tibirica",
+                    "geolocation": {
+                        "latitude": -23.82517,
+                        "longitude": -46.507952
+                    }
+                }
+            ],
+            "local_descricao": "<p>Como chegar: </p>",
+            "atividades": null,
+            "galeria_atrativos": [
+                {
+                    "imagem": "img/uploads/itutinga-piloes-atrativo-rio-piloes-01.jpg",
+                    "titulo": "Rio Pilões - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itutinga-piloes-atrativo-rio-piloes-02.jpg",
+                    "titulo": "Rio Pilões - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itutinga-piloes-atrativo-rio-passareuva-01.jpg",
+                    "titulo": "Rio Passareúva - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itutinga-piloes-atrativo-ruinas-da-vila-de-itutinga-01.jpg",
+                    "titulo": "Ruinas da Vila de Itutinga - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itutinga-piloes-atrativo-ruinas-da-vila-de-itutinga-02.jpg",
+                    "titulo": "Ruinas da Vila de Itutinga - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itutinga-piloes-atrativo-ruinas-da-vila-de-itutinga-03.jpg",
+                    "titulo": "Ruinas da Vila de Itutinga - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itutinga-piloes-atrativo-barragem-do-canal-sumith-control-01.jpg",
+                    "titulo": "Barragem do Canal Sumith Control - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itutinga-piloes-atrativo-barragem-do-canal-sumith-control-02.jpg",
+                    "titulo": "Barragem do Canal Sumith Control - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itutinga-piloes-atrativo-mirante-cubatao-01.jpg",
+                    "titulo": "Mirante Cubatão - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itutinga-piloes-atrativo-mirante-praia-grande-01.jpg",
+                    "titulo": "Mirante Praia Grande - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itutinga-piloes-atrativo-cachoeira-do-laranjal-01.jpg",
+                    "titulo": "Cachoeira do Laranjal - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itutinga-piloes-atrativo-cachoeira-do-laranjal-02.jpg",
+                    "titulo": "Cachoeira do Laranjal - Por Lucas Cuervo"
+                }
+            ]
+        }
+    },
+    {
+        "ID": 66,
+        "title": "Itariru",
+        "slug": "itariru",
+        "post_metas": {
+            "info_content": "O Núcleo Itariru foi criado logo após a anexação da Reserva Florestal de Itariru ao Parque Estadual da Serra do Mar, no ano de 1977. Localizado no Vale do Ribeira, ao sul do estado de São Paulo, o núcleo possui extensão de 53.927 hectares e compreende parte dos municípios de Itariri, Juquitiba, Peruíbe, Miracatu e Pedro de Toledo.\r\nConsiderado uma das áreas de Mata Atlântica mais conservadas do Brasil e agraciado com uma exuberante vegetação nativa, o núcleo protege as únicas manchas de Floresta de Várzea, cujas matas constituem frágeis ambientes, presentes no parque. De origem Tupi, seu nome significa “pedra preciosa”. O termo “ita” quer dizer pedra, firme, forte, resistente. Em Peruíbe, Itariru também é o nome de um dos rios da cidade.",
+            "info_municipio": "Pedro de Toledo",
+            "info_endereco": "Estrada do Caracol, nº410 - bairro Caracol - Pedro de Toledo SP - CEP 11790-000",
+            "info_telefone": "(13) 3419-2792",
+            "info_email": "pesm.itariru@fflorestal.sp.gov.br",
+            "enderecos": [
+                {
+                    "local": "Centro de Visitantes",
+                    "endereco": "",
+                    "slug": "centro-de-visitantes",
+                    "geolocation": {
+                        "latitude": -24.268775,
+                        "longitude": -47.232405
+                    }
+                }
+            ],
+            "local_descricao": "<p>Como chegar: </p>",
+            "atividades": null,
+            "galeria_atrativos": [
+                {
+                    "imagem": "img/uploads/itariru-atrativo-viveiro-de-mudas-01.jpg",
+                    "titulo": "Viveiro de Mudas - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itariru-atrativo-viveiro-de-mudas-02.jpg",
+                    "titulo": "Viveiro de Mudas - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itariru-atrativo-viveiro-de-mudas-03.jpg",
+                    "titulo": "Viveiro de Mudas - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itariru-atrativo-cachoeira-da-usina-01.jpg",
+                    "titulo": "Cachoeira da Usina - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itariru-atrativo-cachoeira-da-usina-02.jpg",
+                    "titulo": "Cachoeira da Usina - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itariru-atrativo-cachoeira-da-usina-03.jpg",
+                    "titulo": "Cachoeira da Usina - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itariru-atrativo-rio-sao-lourencinho-01.jpg",
+                    "titulo": "Rio São Lourencinho - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itariru-atrativo-rio-sao-lourencinho-02.jpg",
+                    "titulo": "Rio São Lourencinho - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itariru-atrativo-cachoeira-ribeirao-grande-01.jpg",
+                    "titulo": "Cachoeira Ribeirão Grande - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itariru-atrativo-cachoeira-ribeirao-grande-02.jpg",
+                    "titulo": "Cachoeira Ribeirão Grande - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/itariru-atrativo-cachoeira-ze-do-bedeu-01.jpg",
+                    "titulo": "Cachoeira do Zé Bedeu - Por Lucas Cuervo"
+                }
+            ]
+        }
+    },
+    {
+        "ID": 65,
+        "title": "Curucutu",
+        "slug": "curucutu",
+        "post_metas": {
+            "info_content": "O Núcleo Curucutu é um dos 10 núcleos que compõem o Parque Estadual Serra do Mar, criado em 30 de agosto de 1977. Tem seu histórico alicerçado na preservação do Manancial que atende a metrópole paulista, quando em 1958 a Fazenda Curucutu, produtora de Carvão, foi adquirida pelo Estado, o qual pelo decreto Nº 36.544/60 tornara seus 12.029,00 ha, em Reserva Florestal, sob os cuidados do então Serviço Florestal do Estado, através da Seção de Reservas da Capital, a qual além de garantir a integridade física da área, desenvolvia pesquisas objetivando a recuperação da área desflorestada com espécie de rápido crescimento “experimentalmente”, onde a partir de 1963 foram produzidas e cultivadas aproximadamente 63.000 árvores de Pinus elliottii.\r\nEsta região se caracteriza como borda do planalto paulista, chegando a divisa do Planalto de Itanhaém com Juquitiba, passando pela bacia dos rios Capivari e Monos da APA do mesmo nome, pela Reserva de Manancial do rio Embú-Guaçú, um dos principais rios que abastece a Represa Guarapiranga, além de fornecer água para grande parte da Baixada Santista por meio da captação de água do sistema Mambú.\r\nO nome Curucutu vem da fazenda que originou o Núcleo (Fazenda Curucutu), ou seja, é anterior ao ano de 1958, quando o Estado adquiriu esta área para transformar em Unidade de Conservação. Existem algumas lendas em torno da origem do nome Curucutu. Uma delas sugere que a origem do nome seja indígena. Outra origem pode ser devido a alta diversidade de corujas no Núcleo. São mais de 11 espécies registradas até 2014. Por este motivo o símbolo do Núcleo é uma Coruja.\r\n",
+            "info_municipio": "São Paulo",
+            "info_endereco": "Estrada da Bela Vista, 7090 - Parelheiros SP",
+            "info_telefone": "(11) 5975-2000",
+            "info_email": "pesm.curucutu@fflorestal.sp.gov.br",
+            "enderecos": [
+                {
+                    "local": "Base Administrativa",
+                    "endereco": "Rua Dom Sebastião Leme, 135 - JD. Ivoty - Itanhaém - SP.",
+                    "slug": "base-administrativa",
+                    "geolocation": {
+                        "latitude": -23.986026,
+                        "longitude": -46.742376
+                    }
+                }
+            ],
+            "local_descricao": "<p>Como chegar: </p>",
+            "atividades": null,
+            "galeria_atrativos": [
+                {
+                    "imagem": "img/uploads/curucutu-atrativo-mirante-01.jpg",
+                    "titulo": "Mirante - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/curucutu-atrativo-mirante-02.jpg",
+                    "titulo": "Mirante - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/curucutu-atrativo-mirante-03.jpg",
+                    "titulo": "Mirante - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/curucutu-atrativo-bica-01.jpg",
+                    "titulo": "Bica - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/curucutu-atrativo-antiga-capela-01.jpg",
+                    "titulo": "Antiga Capela - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/curucutu-atrativo-antiga-capela-02.jpg",
+                    "titulo": "Antiga Capela - Por Lucas Cuervo"
+                }
+            ]
+        }
+    },
+    {
+        "ID": 64,
+        "title": "Bertioga",
+        "slug": "bertioga",
+        "post_metas": {
+            "info_content": "Criado em 2010, o Núcleo Bertioga é considerado um marco à conservação da Mata Atlântica na região. Seu território fazia parte do Núcleo Itutinga Pilões, formando uma extensão muito grande e de difícil gestão. Hoje, compreende uma área de aproximadamente 30 mil hectares e abrange dois municípios: Bertioga e Biritiba Mirim. Faz parte do núcleo a área de planície de Bertioga, considerada o trecho litorâneo paulista mais preservado de Mata Atlântica na atualidade.\r\nEm sua adjacência, encontra-se o Parque Estadual da Restinga de Bertioga, unidade de conservação criada no mesmo ano e sob a mesma gestão, que abriga rica diversidade de ambientes (dunas, praias, rios, florestas, mangues) e uma variada vegetação de restinga, na qual vivem animais raros e ameaçados de extinção. O núcleo é homônimo à cidade de Bertioga, conhecida pelos índios, antes da chegada dos portugueses, como “Buriquioca”, que significa “morada dos macacos buriquis” na língua Tupi.",
+            "info_municipio": "Bertioga",
+            "info_endereco": "Rua Gonçalo da Costa, 140 - Centervalle - SP - CEP 11250-000",
+            "info_telefone": "(13) 3317-2094",
+            "info_email": "pesm.bertioga@fflorestal.sp.gov.br",
+            "enderecos": [
+                {
+                    "local": "Centro de Visitantes",
+                    "endereco": "",
+                    "slug": "centro-de-visitantes",
+                    "geolocation": {
+                        "latitude": -23.851494,
+                        "longitude": -46.135872
+                    }
+                }
+            ],
+            "local_descricao": "<p>Como chegar: </p>",
+            "atividades": null,
+            "galeria_atrativos": [
+                {
+                    "imagem": "img/uploads/bertioga-atrativo-rio-itaguare-01.jpg",
+                    "titulo": "Rio Itaguaré - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/bertioga-atrativo-rio-itaguare-02.jpg",
+                    "titulo": "Rio Itaguaré - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/bertioga-atrativo-rio-itaguare-03.jpg",
+                    "titulo": "Rio Itaguaré - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/bertioga-atrativo-rio-guaratuba-01.jpg",
+                    "titulo": "Rio Guaratuba - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/bertioga-atrativo-rio-guaratuba-02.jpg",
+                    "titulo": "Rio Guaratuba - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/bertioga-atrativo-rio-guaratuba-03.jpg",
+                    "titulo": "Rio Guaratuba - Por Lucas Cuervo"
+                }
+            ]
+        }
+    },
+    {
+        "ID": 51,
+        "title": "Cunha",
+        "slug": "cunha",
+        "post_metas": {
+            "info_content": "O Núcleo Cunha foi criado em 1977, com a inauguração do Parque Estadual da Serra do Mar. Anteriormente, ele era denominado Reserva Florestal de Cunha. Localizado no extremo norte, sua área total corresponde a 13,3 mil hectares e abriga uma das porções de maior biodiversidade em todo o parque. Fazem parte do núcleo os municípios de Cunha e Ubatuba. Sua sede encontra-se na cidade homônima, estância climática localizada a cerca de 250 quilômetros da cidade de São Paulo e conhecida pelas tradições da cultura caipira, além de ser também um importante centro produtor de cerâmica artesanal.\r\nEm seu território são encontrados remanescentes de matas nebulares, espécies características de regiões com grandes altitudes. É o caso da cidade de Cunha, situada a cerca de 1.500 metros do nível do mar - característica que possui grande influência no clima e no ecossistema da região.",
+            "info_municipio": "Cunha",
+            "info_endereco": "Praça Midair José Teodoro, 101 - Bairro do Areião - Cunha - SP - CEP 12530-000",
+            "info_telefone": "(12) 3111-2353",
+            "info_email": "pesm.cunha@fflorestal.sp.gov.br",
+            "enderecos": [
+                {
+                    "local": "Centro de Visitantes",
+                    "endereco": "",
+                    "slug": "centro-de-visitantes",
+                    "geolocation": {
+                        "latitude": -23.23574,
+                        "longitude": -45.021459
+                    }
+                },
+                {
+                    "local": "Base da Barra",
+                    "endereco": "",
+                    "slug": "base-da-barra",
+                    "geolocation": {
+                        "latitude": -23.227495,
+                        "longitude": -44.928012
+                    }
+                }
+            ],
+            "local_descricao": "<p>Como chegar: </p>",
+            "atividades": null,
+            "galeria_atrativos": [
+                {
+                    "imagem": "img/uploads/cunha-atrativo-rio-paraibuna-01.jpg",
+                    "titulo": "Rio Paraibuna - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/cunha-atrativo-rio-paraibuna-02.jpg",
+                    "titulo": "Rio Paraibuna - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/cunha-atrativo-rio-paraibuna-03.jpg",
+                    "titulo": "Rio Paraibuna - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/cunha-atrativo-rio-bonito-01.jpg",
+                    "titulo": "Rio Bonito - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/cunha-atrativo-rio-bonito-02.jpg",
+                    "titulo": "Rio Bonito - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/cunha-atrativo-cachoeira-do-rio-bonito-01.jpg",
+                    "titulo": "Cachoeira do Rio Bonito - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/cunha-atrativo-cachoeira-grande-01.jpg",
+                    "titulo": "Cachoeira Grande - Por Lucas Cuervo"
+                }
+            ]
+        }
+    },
+    {
+        "ID": 15,
+        "title": "Caraguatatuba",
+        "slug": "caraguatatuba",
+        "post_metas": {
+            "info_content": "O Núcleo Caraguatatuba surgiu em 1977, incorporado ao Parque Estadual da Serra do Mar à época de sua criação. A área do núcleo já era considerada como unidade de conservação desde o ano de 1956. Seis anos mais tarde, ela seria transformada no Parque Estadual de Caraguatatuba. Seus 35.947 hectares representam pouco mais de 10% de todo o território do Parque Estadual da Serra do Mar.\r\nExuberantes paisagens formam os remanescentes de Mata Atlântica presentes no núcleo, como os mananciais da represa de Paraibuna, as matas de encosta, os rios, as cachoeiras e os belíssimos cenários vistos da Rodovia dos Tamoios e da Estrada do Rio Pardo. Três municípios paulistas fazem parte do núcleo: Caraguatatuba, Natividade da Serra e Paraibuna. Seu nome, homônimo à cidade litorânea, tem referência na planta caraguatá (Bromelia pinguin), que significa “planta espinhosa” na língua Tupi. O termo “tuba”, que equivale a “muito”, completa a palavra e seu sentido: região onde existem caraguatás em abundância. A planta é muito importante aos índios e animais. Suas fibras eram utilizadas no preparo de roupas, cintos e bolsas. Os frutos, apreciados crus, cozidos ou assados, serviam de alimentação e, segundo a medicina popular, são ótimos ingredientes para xaropes contra tosse, gripe e pneumonia. Quando ocupam áreas extensas, os caraguatás formam barreiras que servem de esconderijo e refúgio a cobras, tatus, porcos e tamanduás.",
+            "info_municipio": "Caraguatatuba",
+            "info_endereco": "Rua do Horto Florestal, 1200 - Rio do Ouro - Caraguatatuba - SP - CEP 11675-736",
+            "info_telefone": "(12) 3882-3166",
+            "info_email": "pesm.caragua@fflorestal.sp.gov.br",
+            "enderecos": [
+                {
+                    "local": "Centro de Visitantes",
+                    "endereco": "",
+                    "slug": "centro-de-visitantes",
+                    "geolocation": {
+                        "latitude": -23.593214,
+                        "longitude": -45.427925
+                    }
+                },
+                {
+                    "local": "Base do Graví",
+                    "endereco": "",
+                    "slug": "base-do-gravi",
+                    "geolocation": {
+                        "latitude": -23.564702,
+                        "longitude": -45.448584
+                    }
+                },
+                {
+                    "local": "Base Rio Pardo",
+                    "endereco": "",
+                    "slug": "base-rio-pardo",
+                    "geolocation": {
+                        "latitude": -23.729566,
+                        "longitude": -45.533986
+                    }
+                }
+            ],
+            "local_descricao": "<p>Como chegar: </p>",
+            "atividades": null,
+            "galeria_atrativos": [
+                {
+                    "imagem": "img/uploads/caraguatatuba-atrativo-antigo-caminhos-dos-tropeiros-01.jpg",
+                    "titulo": "Antigo Caminho dos Tropeiros - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/caraguatatuba-atrativo-antigo-caminhos-dos-tropeiros-02.jpg",
+                    "titulo": "Antigo Caminho dos Tropeiros - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/caraguatatuba-atrativo-antigo-caminhos-dos-tropeiros-03.jpg",
+                    "titulo": "Antigo Caminho dos Tropeiros - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/caraguatatuba-atrativo-cachoeira-da-pedra-redonda-01.jpg",
+                    "titulo": "Cachoeira da Pedra Redonda - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/caraguatatuba-atrativo-cachoeira-da-pedra-redonda-02.jpg",
+                    "titulo": "Cachoeira da Pedra Redonda - Por Dante Buzzetti"
+                },
+                {
+                    "imagem": "img/uploads/caraguatatuba-atrativo-cachoeira-do-rio-pardo-01.jpg",
+                    "titulo": "Cachoeira do Rio Pardo - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/caraguatatuba-atrativo-estrada-do-rio-pardo-01.jpg",
+                    "titulo": "Estrada do Rio Pardo - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/caraguatatuba-atrativo-represa-paraibuna-01.jpg",
+                    "titulo": "Represa Paraibuna - Por Miguel Nema"
+                },
+                {
+                    "imagem": "img/uploads/caraguatatuba-atrativo-rio-mocooca-01.jpg",
+                    "titulo": "Rio Mocooca - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/caraguatatuba-atrativo-rio-santo-antonio-01.jpg",
+                    "titulo": "Rio Santo Antônio - Por Lucas Cuervo"
+                },
+                {
+                    "imagem": "img/uploads/caraguatatuba-atrativo-rio-santo-antonio-02.jpg",
+                    "titulo": "Rio Santo Antônio - Por Lucas Cuervo"
+                }
+            ]
+        }
+    }
+]

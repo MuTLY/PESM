@@ -1,0 +1,18 @@
+<div class="stage_full_wh">
+    <div class="barra_topo">
+        <div class="voltar"><a go-activities="go-activities" vibrate="vibrate">voltar</a></div>
+        <div class="titulo">Selecionar atividades</div>
+        <div class="tipo"><a href="#atividades-lista-nucleo" vibrate="vibrate">Núcleos</a></div>
+    </div>
+    <div class="stage_miolo2" lista-atividades-selecionadas>
+        <ul ng-show="activitiesList[0] != null" class="lista_atividades">
+            <li ng-repeat="activity in activitiesList" on-finish-repeat="renderSvg">
+                <a href="#atividades-descricao/{{::activity.ID}}" vibrate="vibrate">
+                    <span class="icone"><img ng-src="img/atividade_icone_{{::activity.activity_icon}}.svg" class="svg svgHover" width="40" height="40" /></span>
+                    <span class="texto"><strong>{{::activity.title}}</strong> Núcleo {{::activity.core_name}} - em {{::activity.core_city}} {{::activity.km !== 0 ? '- ' + activity.km + ' km' : ''}}</span>
+                </a>
+            </li>
+        </ul>
+        <p ng-show="activitiesList[0] == null" class="no-activity-here">Nenhuma atividade cadastrada para este tipo de atividade.</p>
+    </div>
+</div>

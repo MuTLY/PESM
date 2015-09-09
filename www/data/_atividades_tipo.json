@@ -1,0 +1,72 @@
+[
+    {
+        "ID": 122,
+        "name": "Banho",
+        "slug": "banho"
+    },
+    {
+        "ID": 60,
+        "name": "Bike",
+        "slug": "bike"
+    },
+    {
+        "ID": 123,
+        "name": "Bóia Cross",
+        "slug": "boia-cross"
+    },
+    {
+        "ID": 129,
+        "name": "Camping",
+        "slug": "camping"
+    },
+    {
+        "ID": 151,
+        "name": "Observação de Aves",
+        "slug": "observacao-de-aves"
+    },
+    {
+        "ID": 56,
+        "name": "Passeio de Barco",
+        "slug": "passeio-de-barco"
+    },
+    {
+        "ID": 131,
+        "name": "Patrimonio Cultural",
+        "slug": "patrimonio-cultural"
+    },
+    {
+        "ID": 70,
+        "name": "Praia",
+        "slug": "praia"
+    },
+    {
+        "ID": 53,
+        "name": "Rafting",
+        "slug": "rafting"
+    },
+    {
+        "ID": 91,
+        "name": "Surf",
+        "slug": "surf"
+    },
+    {
+        "ID": 124,
+        "name": "Tirolesa",
+        "slug": "tirolesa"
+    },
+    {
+        "ID": 55,
+        "name": "Travessia",
+        "slug": "travessia"
+    },
+    {
+        "ID": 54,
+        "name": "Trilha",
+        "slug": "trilha"
+    },
+    {
+        "ID": 155,
+        "name": "Trilha fluvial",
+        "slug": "trilha-fluvial"
+    }
+]

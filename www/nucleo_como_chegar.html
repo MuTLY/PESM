@@ -1,0 +1,18 @@
+<div class="stage_full_wh nucleo-como-chegar">
+    <div class="barra_topo">
+        <div class="voltar"><a go-back="go-back" vibrate="vibrate">voltar</a></div>
+        <div class="titulo">Núcleo {{::coresList.name}}</div>
+        <div class="tipo"></div>
+    </div>
+    <div ng-controller="tabsCtrl as panel">
+        <div id="tabs" class="nucleo_submenu pos1">
+            <a href="{{::geoUrl}}" vibrate="vibrate">Ver no Google Maps</a>
+        </div>
+        <div ng-class="{'hide-tab':!panel.isSelected(1)}" class="stage_miolo5">
+            <span id="alerta" class="alerta">arraste<br>para navegar</span>
+            <div class="map-scroller" map-scroll="map-scroll">
+                <img ng-src="img/mapas/{{::coreSlug}}_{{::localMap}}.jpg" width="100%" height="100%" />
+            </div>
+        </div>
+    </div>
+</div>
