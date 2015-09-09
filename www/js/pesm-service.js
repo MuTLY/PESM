@@ -146,7 +146,8 @@
         // Update GPS
         self.updateGps = function() {
             $timeout(function() {
-                geolocator.locate(onGeoSuccess, onGeoError, 0, html5Options); //0 = FreeGeoIP - https://github.com/onury/geolocator
+                //geolocator.locate(onGeoSuccess, onGeoError, 0, html5Options); //0 = FreeGeoIP - https://github.com/onury/geolocator
+                geolocator.locate(onGeoSuccess, onGeoError, html5Options);
             });
         };
 
